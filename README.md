@@ -6,8 +6,11 @@
 
 <br/>
 
-This is a solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture. Create a new project based on this template by clicking the above **Use this template** button or by installing and running the associated NuGet package (see Getting Started for full details). 
+## Fork
+This is a Fork from https://github.com/jasontaylordev/CleanArchitecture for personal use in different personal projects. This repo is NOT going to be updated - it only serves as a source I can review from time to time.
+Feel free to use it as is and if you look for the original latest version, look into https://github.com/jasontaylordev/CleanArchitecture.
 
+This is a solution template for creating a Single Page App (SPA) with Angular 8 and ASP.NET Core 3 following the principles of Clean Architecture. Create a new project based on this template by clicking the above **Use this template** button or by installing and running the associated NuGet package (see Getting Started for full details). 
 
 ## Technologies
 * .NET Core 3.1
